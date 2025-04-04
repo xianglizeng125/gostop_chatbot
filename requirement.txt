@@ -1,0 +1,10 @@
+streamlit
+pandas
+scikit-learn
+numpy
+Pillow
+tensorflow
+transformers
+textblob
+xlsxwriter
+huggingface_hub

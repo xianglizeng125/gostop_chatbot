@@ -1,0 +1,135 @@
+menu,review,sentiment,compound_score
+samgyeopsal,love sundubu jigae taste flavor rich __tteokbokki__ good alsowe order __samgyeopsal__ free chicken tag instagram account meat tender juicylove place,positive,0.9325
+tteokbokki,love sundubu jigae taste flavor rich __tteokbokki__ good alsowe order __samgyeopsal__ free chicken tag instagram account meat tender juicylove place,positive,0.9325
+bulgogi,samgyopsal __bulgogi__ good chicken kinda taste wierd not know seasoning chicken quality consider quality control meat overall good definitly later,positive,0.7003
+kimchi jjigae,restoran korea recommend dish soondubu jigae tofu soup __kimchi jjigae__,positive,0.3612
+japchae,korean restaurant authentic comfortable food delicious grill meat season not taste good overall delicious like play goldfinch try recommend dish tofu soup __japchae__,positive,0.9402
+bulgogi,good food good servicethe place clean tidy service good waiter alert fast dish not long come table not eat okay la carte restaurant order accord menuorder kind meat samgyup woo __bulgogi__ taebokki __japchae__ __odeng__ rice ocha plus add veggie set lettuce ssamjang chili sauce chili sauce delicious bakecook overall satisfied meat soft especially mix ssamjang chili sauce good,positive,0.9795
+japchae,good food good servicethe place clean tidy service good waiter alert fast dish not long come table not eat okay la carte restaurant order accord menuorder kind meat samgyup woo __bulgogi__ taebokki __japchae__ __odeng__ rice ocha plus add veggie set lettuce ssamjang chili sauce chili sauce delicious bakecook overall satisfied meat soft especially mix ssamjang chili sauce good,positive,0.9795
+odeng,good food good servicethe place clean tidy service good waiter alert fast dish not long come table not eat okay la carte restaurant order accord menuorder kind meat samgyup woo __bulgogi__ taebokki __japchae__ __odeng__ rice ocha plus add veggie set lettuce ssamjang chili sauce chili sauce delicious bakecook overall satisfied meat soft especially mix ssamjang chili sauce good,positive,0.9795
+japchae,food delicious place cozy clean affordable price staff alert calledthe spice penetrate perfectly meatmandatory menuwoo samgyup marinate spicy marinate samgyeop sal non halal soondubu jigae prawn good __japchae__ endeuss __dakgangjeong__ good not forget order oksusu cha korean ocha,positive,0.9599
+dakgangjeong,food delicious place cozy clean affordable price staff alert calledthe spice penetrate perfectly meatmandatory menuwoo samgyup marinate spicy marinate samgyeop sal non halal soondubu jigae prawn good __japchae__ endeuss __dakgangjeong__ good not forget order oksusu cha korean ocha,positive,0.9599
+japchae,korean bbq restaurant clean comfortable bright air temperature right staff service friendly alert calledgood quality meat great taste reasonable price great kimchi champion __japchae__suggestion add dish hehee,positive,0.9786
+kimchi jjigae,delicious honestly good __kimchi jjigae__ ve ve repeat menu order time __kimchi jjigae__ marinate __samgyeopsal__ try thank later,positive,0.9022
+samgyeopsal,delicious honestly good __kimchi jjigae__ ve ve repeat menu order time __kimchi jjigae__ marinate __samgyeopsal__ try thank later,positive,0.9022
+odeng,nice meat marinate right inside __odeng__ delicious server good close let eat ill,positive,0.765
+budae jjigae,food delicious __budae jjigae__ delicious restaurant atmosphere comfortable d,positive,0.8934
+odeng,sundubu delicious tteobokki sooo __odeng__ soooo,positive,0.5719
+kimchi jjigae,order __kimchi jjigae__ __samgyeopsal__ plus rice drink person portion huh price portion normal person k taste good rain kimchi standard call comfort food warm sour broth like,positive,0.8316
+samgyeopsal,order __kimchi jjigae__ __samgyeopsal__ plus rice drink person portion huh price portion normal person k taste good rain kimchi standard call comfort food warm sour broth like,positive,0.8316
+bulgogi,row shophouse want eat grill meat usually ayce stop korean food menu ala carte taste decentbecause like sundubu jjigae menu korean restaurant definitely try soup not include rice order sister order tteokpokki like open free meat promo purchase meatsoup rice drink try spicy dak __bulgogi__ marinated chicken overall taste seasoning tend light big korean restaurant term texture stop serve tender marinate go tteokpokki texture chewy tender delicious seasoning not good salty visit want try grill meat,negative,0.8589
+kimchi jjigae,opinion __kimchi jjigae__ tasty reallylovelovelove,neutral,0.0
+japchae,soondubu jjigae beef woo samgyup spicy beef __japchae__ delicious taste authentic,positive,0.7783
+samgyeopsal,__samgyeopsal__ marinate pork soondubu jjigae seafood __samgyeopsal__ deopbap order food stop day delicious saturday portion bit small normal day chili sauce delicious delicious,positive,0.872
+odeng,taste never change excellent taste pork jjigae soondubu __odeng__,negative,-0.4585
+samgyeopsal,come favorite __samgyeopsal__ sundubu jjigae dubu kimchi place nice good food price considerably ok not expensive lot korean eat,positive,0.8805
+samgyeopsal,cook __samgyeopsal__ kitchen not table taste not good visitor,negative,-0.3412
+samgyeopsal,__samgyeopsal__ particular smell funny beef hard chew small portion dish not refill,negative,0.3612
+bulgogi,__bulgogi__ delicious service good satisfy food place,positive,0.8625
+tofu jjigae,spicy __samgyeopsal__ burst flavor __tofu jjigae__ complement perfectly definitely come,positive,0.7845
+samgyeopsal,spicy __samgyeopsal__ burst flavor __tofu jjigae__ complement perfectly definitely come,positive,0.7845
+dakgangjeong,love __pork ____suundubu__ jjigae____rich comfort plus __dakgangjeong__ crispy flavorful hide gem,positive,0.7184
+suundubu,love __pork ____suundubu__ jjigae____rich comfort plus __dakgangjeong__ crispy flavorful hide gem,positive,0.7184
+samgyeopsal,spicy __samgyeopsal__ come cold portion small,neutral,0.0
+kimchi fried rice,__kimchi fried rice__ not help,negative,-0.3089
+tteokbokki,__dakgangjeong__ sweet soggy __tteokbokki__ lack chewy texture usually expect,positive,0.1779
+dakgangjeong,__dakgangjeong__ sweet soggy __tteokbokki__ lack chewy texture usually expect,positive,0.1779
+woo samgyeup,order __woo samgyeup__ __meltique tenderloin__ overcooked chewy not worth price,negative,-0.1695
+meltique tenderloin,order __woo samgyeup__ __meltique tenderloin__ overcooked chewy not worth price,negative,-0.1695
+suundubu,high hope __prawn ____suundubu__ jjigae____ bland shrimp not fresh disappointed,negative,0.5411
+tofu jjigae,__tofu jjigae__ watery __budae jjigae__ lack depth flavor will not recommend place friend,negative,-0.7217
+budae jjigae,__tofu jjigae__ watery __budae jjigae__ lack depth flavor will not recommend place friend,negative,-0.7217
+spicy woo samgyup,__pork ____suundubu__ jjigae____ smell weird __spicy woo samgyup__ oily spicy,positive,0.34
+suundubu,__pork ____suundubu__ jjigae____ smell weird __spicy woo samgyup__ oily spicy,positive,0.34
+bulgogi,try __saeng galbi__ spicy dak __bulgogi__ come tough meat definitely not fresh cut,negative,0.2621
+saeng galbi,try __saeng galbi__ spicy dak __bulgogi__ come tough meat definitely not fresh cut,negative,0.2621
+bulgogi,service slow forget dak __bulgogi__ come cold dry,negative,-0.2263
+bulgogi,dak __bulgogi__ __kimchi fried rice__ combo good ve try far hit spot,positive,0.4404
+kimchi fried rice,dak __bulgogi__ __kimchi fried rice__ combo good ve try far hit spot,positive,0.4404
+tofu jjigae,__tofu jjigae__ taste like seoul light flavorful great bowl __suundubu__ rice,positive,0.765
+suundubu,__tofu jjigae__ taste like seoul light flavorful great bowl __suundubu__ rice,positive,0.765
+suundubu,order __pork ____suundubu__ jjigae____ come lukewarm taste like plain tofu water not appetizing,positive,0.3612
+spicy woo samgyup,__spicy woo samgyup__ dry extremely oily leave weird aftertaste dish cold,positive,0.1675
+meltique tenderloin,__meltique tenderloin__ sound premium tough fat definitely not worth premium price,positive,0.1366
+budae jjigae,try __budae jjigae__ overly salty barely sausage meat noodle broth,neutral,0.0
+odeng,__odeng__ rubbery taste like come straight freezer pair __suundubu__ equally disappointing,positive,0.0516
+suundubu,__odeng__ rubbery taste like come straight freezer pair __suundubu__ equally disappointing,positive,0.0516
+woo samgyeup,__woo samgyeup__ strange smell come undercooked lose appetite halfway meal,negative,-0.5423
+samgyeopsal,spicy __samgyeopsal__ perfect kicksavory spicy cook perfection definitely favorite,positive,0.9201
+bulgogi,love spicy food spicy dak __bulgogi__ hit spot pair rice amazing,positive,0.8402
+spicy woo samgyup,enjoy heat __spicy woo samgyup__ try flavorful satisfying overwhelming,positive,0.8519
+samgyeopsal,try spicy __samgyeopsal__ kimchi fry riceawesome combo flavor work,neutral,0.0
+spicy woo samgyup,expect bold flavor __spicy woo samgyup__ bland strange aftertaste,negative,0.5994
+bulgogi,spicy dak __bulgogi__ oily spicy meat chewy overcooked,negative,0.0
+samgyeopsal,spicy __samgyeopsal__ overwhelmingly salty barely spicy not finish,negative,-0.128
+suundubu,____suundubu__ jjigae__ warm comfort flavor strong portion right,positive,0.7717
+samgyeopsal,__samgyeopsal__ come cook nothing stand decent option nearby,neutral,0.0
+bulgogi,__bulgogi__ finetender slightly sweet ve well place,positive,0.5489
+bulgogi,order spicy dak __bulgogi__ __tteokbokki__ serve hot taste pretty average,positive,0.4939
+tteokbokki,order spicy dak __bulgogi__ __tteokbokki__ serve hot taste pretty average,positive,0.4939
+woo samgyeup,__woo samgyeup__ grill nicely not super memorable good casual dinner,negative,-0.2148
+meltique tenderloin,__meltique tenderloin__ serve medium request flavor not wow,negative,-0.4717
+odeng,__odeng__ soft warm feel like dish highlight nothing bad,negative,0.8248
+suundubu,__pork ____suundubu__ jjigae____ taste strange broth oily not enjoyable,negative,-0.4949
+suundubu,__prawn ____suundubu__ jjigae____ smell fishy shrimp not taste fresh,negative,-0.2411
+suundubu,order __prawn ____suundubu__ jjigae____ expect rich flavorful broth watery lack depth prawn not taste fresh slightly smell ruin appetite price hope well prepared balanced flavor,positive,0.4052
+samgyeopsal,__samgyeopsal__ favorite dish excited sadly come fat actual meat cook kitchen instead table feel authentic flavor not deliver kimchi taste dull compare korean restaurant ve try,negative,-0.0258
+bulgogi,high hope see good review __budae jjigae__ spicy dak __bulgogi__ order big letdown stew spam noodle barely vegetable meat broth overwhelmingly salty __bulgogi__ odd aftertaste like sit long serve,positive,0.4588
+budae jjigae,high hope see good review __budae jjigae__ spicy dak __bulgogi__ order big letdown stew spam noodle barely vegetable meat broth overwhelmingly salty __bulgogi__ odd aftertaste like sit long serve,positive,0.4588
+japchae,__japchae__ greasy stick noodle not usual springiness,neutral,0.0
+suundubu,try __pork ____suundubu__ jjigae____ find disappoint broth overly salty lack expect richness tofu dish not complement overall taste leave feel miss vital,negative,-0.1027
+spicy woo samgyup,__spicy woo samgyup__ interesting attempt bold flavor ultimately miss mark meat overcooked sauce overpower feel like spice hide nuanced flavor enhance dish,negative,0.8225
+meltique tenderloin,__meltique tenderloin__ tough dry definitely not worth premium label,positive,0.1366
+suundubu,sup __suundubu__ way salty ingredient inside underwhelme,neutral,0.0
+bulgogi,spicy dak __bulgogi__ little bit oily marinade overly sweet,positive,0.4588
+suundubu,__beef ____suundubu__ jjigae____ rich savory right spice love,positive,0.8316
+bulgogi,spicy dak __bulgogi__ hit right level heat sweetness tender meat pack flavor,positive,0.4939
+meltique tenderloin,__meltique tenderloin__ juicy tender cook exactly ask sea,neutral,0.0
+budae jjigae,__budae jjigae__ come generous ingredientssausage noodle tofu hearty broth great share,positive,0.8625
+budae jjigae,ve crave korean comfort food finally satisfied __budae jjigae__ __tteokbokki__ stew pack ingredientsramyeon sausage tofu baked bean like classic korean version broth spicy savory super comfort __tteokbokki__ come chewy rice cake thick spicy sweet sauce remind street food seoul portion size great share serve fresh definitely return,positive,0.9788
+tteokbokki,ve crave korean comfort food finally satisfied __budae jjigae__ __tteokbokki__ stew pack ingredientsramyeon sausage tofu baked bean like classic korean version broth spicy savory super comfort __tteokbokki__ come chewy rice cake thick spicy sweet sauce remind street food seoul portion size great share serve fresh definitely return,positive,0.9788
+kimchi jjigae,love __kimchi jjigae__it right tang spice pair __japchae__ perfect meal,positive,0.836
+japchae,love __kimchi jjigae__it right tang spice pair __japchae__ perfect meal,positive,0.836
+suundubu,__beef ____suundubu__ jjigae____ rich satisfy soft tofu kick definitely d order,positive,0.8519
+bulgogi,__bulgogi__ delicioussweet savory flavor dish fresh complement main dish,positive,0.3182
+meltique tenderloin,__meltique tenderloin__ come overcooked chewy expect well premium item,negative,0.2732
+tteokbokki,__tteokbokki__ cold rice cake hard sauce bit sweet taste,positive,0.3818
+suundubu,__pork ____suundubu__ jjigae____ not delicious broth taste flat not finish,negative,-0.4585
+suundubu,order __beef ____suundubu__ jjigae____ good ve broth rich tender beef slice soft tofu melt mouth good spice warm overwhelm taste serve hot fresh portion size generous,positive,0.9349
+samgyeopsal,spicy __samgyeopsal__ cook perfectlycrispy edge juicy center spice level balance marinade flavorful overpower meat enjoy dish especially kimchi staff friendly quick respond request,positive,0.7693
+tofu jjigae,__meltique tenderloin__ surprisingly goodsoft juicy season pair __tofu jjigae__ light flavorful service polite ambiance cozy great spot look korean comfort food quality ingredient,positive,0.8316
+meltique tenderloin,__meltique tenderloin__ surprisingly goodsoft juicy season pair __tofu jjigae__ light flavorful service polite ambiance cozy great spot look korean comfort food quality ingredient,positive,0.8316
+suundubu,__pork ____suundubu__ jjigae____ underwhelming broth oily lack depth flavor tofu feel overcooked rubbery expect savory balanced not deliver,negative,-0.3182
+bulgogi,spicy dak __bulgogi__ serve lukewarm taste overly sweet instead spicy meat dry like reheat portion small honestly not feel fresh,positive,0.7606
+japchae,try __japchae__ __odeng__ leave disappoint __japchae__ greasy clump __odeng__ broth taste like plain hot water nothing stand flavor feel like pre rush,positive,0.2732
+odeng,try __japchae__ __odeng__ leave disappoint __japchae__ greasy clump __odeng__ broth taste like plain hot water nothing stand flavor feel like pre rush,positive,0.2732
+kimchi jjigae,__kimchi jjigae__ __tteokbokki__ miss mark stew sour lack spice __tteokbokki__ sauce taste artificial watery rice cake hard center will not order,negative,-0.5106
+tteokbokki,__kimchi jjigae__ __tteokbokki__ miss mark stew sour lack spice __tteokbokki__ sauce taste artificial watery rice cake hard center will not order,negative,-0.5106
+tofu jjigae,try __tofu jjigae__ decent broth mild tofu soft not leave strong impression good option want light ve flavorful version not bad not memorable,negative,0.4272
+spicy woo samgyup,__spicy woo samgyup__ come hot grill flavor not stand portion average dish okay not bad meal nothing special solid basic korean bbq experience,negative,0.6307
+dakgangjeong,order __kimchi fried rice__ __dakgangjeong__ rice slightly dry edible chicken sweet crunchy texture overall meal fine probably not order combo nothing go wrong not wow,positive,0.5076
+kimchi fried rice,order __kimchi fried rice__ __dakgangjeong__ rice slightly dry edible chicken sweet crunchy texture overall meal fine probably not order combo nothing go wrong not wow,positive,0.5076
+budae jjigae,__budae jjigae__ fill usual ingredientsspam tofu noodlesbut broth feel little flat hearty meal fill not dislike lack rich flavor hope okay quick lunch,positive,0.6152
+samgyeopsal,__samgyeopsal__ grill serve promptly decent flavor not extra char marinade depth usually like overall experience fine not great not terriblejust average,positive,0.0015
+bulgogi,__bulgogi__ tender perfectly marinated enjoy,positive,0.8126
+suundubu,__prawn ____suundubu__ jjigae____ rich flavorful broth fresh shrimp,positive,0.7096
+bulgogi,spicy dak __bulgogi__ delicioussweet spicy satisfy,positive,0.4588
+japchae,__japchae__ greasy noodle overcook,neutral,0.0
+odeng,__odeng__ taste old broth flavorless,neutral,0.0
+suundubu,__beef ____suundubu__ jjigae____ flavorful comfort broth rich tofu silky,positive,0.7269
+suundubu,enjoy __beef ____suundubu__ jjigae____ beef slice tender spicy broth nice depth come bubble hot way satisfying hearty dish overall,positive,0.8402
+suundubu,__beef ____suundubu__ jjigae____ bland watery not enjoyable al,negative,-0.3412
+suundubu,disappoint __beef ____suundubu__ jjigae____ broth lack flavor beef chewy instead tender feel rush underseasone,negative,-0.6124
+suundubu,__pork ____suundubu__ jjigae____ oily lack flavor not taste fresh al,negative,-0.5043
+tteokbokki,__tteokbokki__ hard rice cake watery sauce feel like microwave snack restaurant food,positive,0.2732
+meltique tenderloin,__meltique tenderloin__ overcooked tough chew market premium fall short definitely will not order,negative,0.296
+odeng,__odeng__ broth taste like plain water fish cake rubbery not feel fresh,positive,0.1376
+budae jjigae,__budae jjigae__ spicy real flavor feel like instant noodle spam toss,neutral,0.0
+samgyeopsal,spicy __samgyeopsal__ flavor grill right d definitely order,positive,0.4019
+bulgogi,dak __bulgogi__ right sweetness heat chicken tender marinate,positive,0.4939
+kimchi fried rice,__kimchi fried rice__ come hot great flavor crispy bit well,positive,0.7351
+odeng,not expect __odeng__ actually good broth clean comfort,positive,0.7964
+spicy woo samgyup,__spicy woo samgyup__ juicy bold cook perfection great bowl rice kimchi,positive,0.926
+samgyeopsal,__samgyeopsal__ perfectly grill super juicy ill definitely come,positive,0.8402
+kimchi jjigae,great service fresh meat __kimchi jjigae__ comfort delicious,positive,0.9118
+meltique tenderloin,affordable price notch korean bbq good __meltique tenderloin__,positive,0.4404
