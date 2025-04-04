@@ -10,4 +10,3 @@ transformers==4.28.0
 textblob
 xlsxwriter
 protobuf<4
-huggingface_hub
