@@ -3,7 +3,7 @@ pandas
 scikit-learn
 numpy
 Pillow
-tensorflow==2.12.0
 transformers==4.38.2
 textblob
 xlsxwriter
+tensorflow==2.16.1
