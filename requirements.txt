@@ -3,8 +3,11 @@ pandas
 scikit-learn
 numpy
 Pillow
-tensorflow==2.16.1
-transformers==4.38.2
+tensorflow==2.11.0
+keras==2.11.0
+tf-keras
+transformers==4.28.0
 textblob
 xlsxwriter
-protobuf==3.20.*
+protobuf<4
+huggingface_hub
